@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [nardi00.github.io/portfolio](nardi00.github.io/portfolio)
 
-- 📫 How to reach me **guilhermenardi3@outlook.com**
+- 📫 Reach me at **guilhermenardi3@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
